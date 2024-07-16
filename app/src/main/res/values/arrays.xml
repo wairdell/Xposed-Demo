@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xposedscope" >
+        <!-- 这里填写模块的作用域应用的包名，可以填多个。 -->
+        <item>com.zhuoyixia.speech.voicereadsdk</item>
+        <item>com.xzzq.xiaozhuo</item>
+        <item>com.speech.voicereadsdk.demo</item>
+    </string-array>
+</resources>
